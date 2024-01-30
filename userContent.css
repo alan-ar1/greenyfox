@@ -1,0 +1,9 @@
+@-moz-document url(about:home), url(about:newtab), url(about:privatebrowsing) {
+  body {
+    background-color: #191919 !important;
+  }
+
+  .search-wrapper {
+    display: none;
+  }
+}
