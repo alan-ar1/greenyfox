@@ -71,7 +71,7 @@ tab {
 
 .titlebar-min {
   -moz-default-appearance: -moz-window-button-maximize;
-  list-style-image: url(img/icons8-circle-100.png) !important;
+  list-style-image: url(img/yellow-circle.png) !important;
   padding: 0 !important;
 }
 
