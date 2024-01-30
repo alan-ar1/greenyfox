@@ -1,2 +1,5 @@
 # greenyfox
-My css stylesheets for firefox.
+My CSS stylesheets for firefox.
+
+![greenyfox](https://i.imgur.com/DGTAHYA.png)
+
